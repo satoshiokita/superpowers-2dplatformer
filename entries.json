@@ -1,0 +1,95 @@
+[
+  {
+    "id": "0",
+    "name": "Scene",
+    "type": "scene"
+  },
+  {
+    "id": "14",
+    "name": "barrel",
+    "type": "sprite"
+  },
+  {
+    "id": "2",
+    "name": "Levels",
+    "type": null,
+    "children": [
+      {
+        "id": "1",
+        "name": "Tile Set",
+        "type": "tileSet"
+      },
+      {
+        "id": "4",
+        "name": "LvelTemplate",
+        "type": "tileMap"
+      },
+      {
+        "id": "10",
+        "name": "Level1",
+        "type": "tileMap"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Player",
+    "type": null,
+    "children": [
+      {
+        "id": "6",
+        "name": "Sprite",
+        "type": "sprite"
+      },
+      {
+        "id": "7",
+        "name": "Player",
+        "type": "script"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Background",
+    "type": "sprite"
+  },
+  {
+    "id": "11",
+    "name": "Gloabal",
+    "type": "script"
+  },
+  {
+    "id": "12",
+    "name": "T-Rex (1)",
+    "type": null,
+    "children": [
+      {
+        "id": "9",
+        "name": "T-Rex",
+        "type": "sprite"
+      },
+      {
+        "id": "13",
+        "name": "TRex",
+        "type": "script"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Goal",
+    "type": null,
+    "children": [
+      {
+        "id": "15",
+        "name": "Scene",
+        "type": "scene"
+      },
+      {
+        "id": "17",
+        "name": "GoalText",
+        "type": "font"
+      }
+    ]
+  }
+]

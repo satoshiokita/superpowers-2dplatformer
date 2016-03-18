@@ -1,0 +1,25 @@
+{
+  "behaviors": {
+    "PlayerBehavior": {
+      "scriptId": "7",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "jumpSpeed",
+          "type": "number"
+        }
+      ]
+    },
+    "TRexBehavior": {
+      "scriptId": "13",
+      "line": 2,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}
